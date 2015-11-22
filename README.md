@@ -1,6 +1,6 @@
 # Introduction
 
-This software performs the numerical routines and produces the figures for the paper **Ordering population structures by increasing cooperativeness**, by *Jorge Peña*, *Bin Wu*, and *Arne Traulsen*. 
+This software performs the numerical routines and produces the figures for the paper **Ordering structured populations in multiplayer cooperation games**, by *Jorge Peña*, *Bin Wu*, and *Arne Traulsen*. 
 
 # Included files
 
